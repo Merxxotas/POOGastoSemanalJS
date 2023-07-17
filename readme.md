@@ -5,7 +5,7 @@ En este proyecto que hace parte de un curso sobre JS moderno, he creado una impl
 ## Tecnologías
 - JavaScript
 - HTML5/CSS3, Boostrap
-- DEMO: https://gastosemanaljspoo.netlify.app
+- [Aquí la DEMO](https://gastosemanaljspoo.netlify.app)
 
 ## Aprendiendo JavaScript
 
